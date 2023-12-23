@@ -1,3 +1,11 @@
+/*Personal Appointment Schedular
+Members:
+Keir John Variacion - Project Manager/Programmer/Technical Writer
+John Leo Flores - Programmer/ Flowchart
+Kesha Crabajales - Technical Writer
+Selwyn Noel Pil - Flowchart
+*/
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
