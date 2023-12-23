@@ -125,6 +125,7 @@ public class AppointmentScheduler {
 
         if (choice == 1) {
             createAccount();
+        } else if (choice == 2) {
             login();
         } else {
             main(null);
