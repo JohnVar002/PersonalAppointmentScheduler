@@ -201,7 +201,6 @@ public class AppointmentScheduler {
         System.out.println("║ CREATE APPOINTMENT ║");
         System.out.println("╚════════════════════╝");
 
-        // Validation for each form field
         String title = getNonEmptyInput("Enter title:");
         String place = getNonEmptyInput("Enter place:");
         String time = getNonEmptyInput("Enter time:");
